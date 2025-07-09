@@ -1,0 +1,20 @@
+langchain
+langchain-core
+langchain-community
+
+#mistral ai 
+langchain-mistralai
+
+youtube-transcript-api
+faiss-cpu
+sentence-transformers
+python-dotenv
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Machine Learning Utilities
+numpy
+scikit-learn
