@@ -55,9 +55,3 @@ When a question is asked:
 - The LLM responds only using the provided context
 
 ---
-
-## 🧪 Example Use Cases
-
-### 📺 Sample Video
-```python
-video_id = "Gfr50f6ZBvo"  # Replace with any video ID of your choice
