@@ -1,4 +1,4 @@
-# 🎥 YouTube Transcript Question Answering with Mistral & FAISS
+# 🎥 YouTube Transcript Question Answering RAGBOT with Memory using PPLX
 
 This project is an end-to-end pipeline that lets users **ask questions about YouTube videos** using the **video transcript as context**, powered by **LangChain**, **Mistral LLM**, **FAISS**, and **HuggingFace embeddings**. It showcases how to integrate retrieval-based systems with large language models for accurate, grounded answers.
 
